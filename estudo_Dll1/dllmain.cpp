@@ -7,8 +7,7 @@
 using namespace std;
 
 EXTERN_C void funnyFunction(void) {
-    
-    cout << "inside of funnyFunction\n";
+
     system("start calc.exe");
 
 }
@@ -21,7 +20,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     switch (ul_reason_for_call)
     {
     case DLL_PROCESS_ATTACH:
-        cout << "inside of DLL infected\n";
+        MessageBoxA(NULL, "DLL injetada!", "Teste", MB_OK);
         funnyFunction();
         return TRUE;
     case DLL_THREAD_ATTACH:

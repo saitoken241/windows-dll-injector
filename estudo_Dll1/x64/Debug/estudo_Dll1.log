@@ -1,2 +1,4 @@
-﻿  dllmain.cpp
+﻿  pch.cpp
+  dllmain.cpp
+     Criando biblioteca C:\Users\dudue\source\repos\estudo_Dll1\x64\Debug\estudo_Dll1.lib e objeto C:\Users\dudue\source\repos\estudo_Dll1\x64\Debug\estudo_Dll1.exp
   estudo_Dll1.vcxproj -> C:\Users\dudue\source\repos\estudo_Dll1\x64\Debug\estudo_Dll1.dll
