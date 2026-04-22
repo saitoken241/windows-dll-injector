@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="estudo_Dll1/estudo_Dll1.vcxproj" Id="acd4861e-57a5-4aa6-9ea6-d789751162bf" />
+  <Project Path="mainConsole/mainConsole.vcxproj" Id="e6fd4cb6-0bd0-4548-9162-a1b2ec56f1a9" />
+</Solution>

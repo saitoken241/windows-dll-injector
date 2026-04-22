@@ -1,0 +1,4 @@
+﻿  mainConsole.cpp
+C:\Users\dudue\source\repos\estudo_Dll1\mainConsole\mainConsole.cpp(63,8): warning C4101: 'DwPriorityClass': variável local não referenciada
+C:\Users\dudue\source\repos\estudo_Dll1\mainConsole\mainConsole.cpp(61,9): warning C4101: 'hProcessl': variável local não referenciada
+  mainConsole.vcxproj -> C:\Users\dudue\source\repos\estudo_Dll1\x64\Debug\mainConsole.exe

@@ -1,0 +1,4 @@
+LIBRARY estudo_Dll1
+
+EXPORTS 
+funnyFunction @1
